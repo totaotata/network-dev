@@ -20,10 +20,7 @@ import "./assets/scss/theme.scss";
 // Import Firebase Configuration file
 import { initFirebaseBackend } from "./helpers/firebase_helper";
 
-// import fakeBackend from './helpers/AuthType/fakeBackend';
 
-// Activating fake backend
-// fakeBackend();
 
 const firebaseConfig = {		
   apiKey: process.env.REACT_APP_APIKEY,

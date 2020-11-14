@@ -25,6 +25,7 @@
     "echarts": "^4.7.0",
     "echarts-for-react": "^2.0.15-beta.1",
     "firebase": "^7.11.0",
+    "firebase-admin": "^9.3.0",
     "google-maps-react": "^2.0.2",
     "i18next": "^19.4.4",
     "i18next-browser-languagedetector": "^4.1.1",

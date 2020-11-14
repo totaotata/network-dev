@@ -76,6 +76,15 @@ const SidebarContent = (props) => {
                                     <li><Link to="/dashboard">{props.t('Default') }</Link></li>
                                 </ul>
                      </li>
+                     <li>
+                                <Link to="/formations" className="waves-effect">
+                                    <i className="bx bx-book-bookmark "></i>
+                                    <span>{props.t('Formations') }</span>
+                                </Link>
+
+                     </li>
+
+
                 </ul>
             </div>
             </React.Fragment>
